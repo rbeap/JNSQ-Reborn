@@ -14,7 +14,7 @@
 * [Deferred Rendering](https://github.com/LGhassen/Deferred/releases/latest)
 * [BurstPQS](https://github.com/Phantomical/BurstPQS/releases/latest) (not necessary but highly recommended)
 
-- **Kerbal Konstructs statics**
+- **Kerbal Konstructs Sites**
   - [Kerbal Konstructs](https://forum.kerbalspaceprogram.com/topic/204210-ksp-18-kerbal-konstructs-continued/)
   - [Kerbin Side Remastered](https://forum.kerbalspaceprogram.com/topic/174336-kerbin-side-remastered-101-173/)
   - [Omega's Stockalike Structures](https://forum.kerbalspaceprogram.com/topic/169891-wip-omega482s-dev-thread-omegas-stockalike-structures-no-textures-required-alpha-now-available/)
