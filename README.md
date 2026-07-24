@@ -11,6 +11,7 @@
 * [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases/latest)
 * [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases)
 * [EVE Volumetrics V5](https://www.patreon.com/blackrack/posts/true-volumetric-139879553)
+* [Deferred Rendering](https://github.com/LGhassen/Deferred/releases/latest)
 * [BurstPQS](https://github.com/Phantomical/BurstPQS/releases/latest) (not necessary but highly recommended)
 
 - **Kerbal Konstructs statics**
