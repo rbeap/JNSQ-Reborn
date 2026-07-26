@@ -33,4 +33,4 @@
 * Special thanks to [jthero7](https://forum.kerbalspaceprogram.com/profile/231316-jthero7/) for maintaining JNSQ Volumetrics for such a long time
 
 ### Licensing
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+CC-BY-NC-SA
