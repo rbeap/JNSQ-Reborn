@@ -28,8 +28,9 @@
 
 ## Credits
 * [Sunflare](https://forum.kerbalspaceprogram.com/topic/162775-131-poll-sunflares-of-maar-gpp-bundle-v12-jan-23-2018/)
-* [Lindor Cloud Textures](https://forum.kerbalspaceprogram.com/topic/230036-112x-v11-spacepotatos-visual-enhancements-spve-visual-addons-for-volumetric-clouds/)
+* [SPVE for some assets, sounds, and base configs](https://forum.kerbalspaceprogram.com/topic/230036-112x-v11-spacepotatos-visual-enhancements-spve-visual-addons-for-volumetric-clouds/)
 * [Kerbal Konstructs Launch Sites](https://forum.kerbalspaceprogram.com/topic/225594-kerbin-renewal-jnsq-launch-site-pack-starting-on-contractpack/)
+* [MPE for ring textures](https://forum.kerbalspaceprogram.com/topic/192848-112x-planet-pack-minor-planets-expansion/)
 * Special thanks to [jthero7](https://forum.kerbalspaceprogram.com/profile/231316-jthero7/) for maintaining JNSQ Volumetrics for such a long time
 
 ### Licensing
