@@ -4,7 +4,7 @@
 # <img width="1920" height="1080" alt="screenshot23" src="https://github.com/user-attachments/assets/33f14c65-57a7-4f4b-aa88-db0a75b76b78" />
 
 ## DISCLAIMER
-### THIS MOD *WILL* BREAK YOUR EXISTING JNSQ SAVE! This is a complete replacement for JNSQ, however you still need to install JNSQ for this to work. 
+### THIS MOD *MIGHT* BREAK YOUR EXISTING JNSQ SAVE! This is a complete replacement for JNSQ, however you still need to install JNSQ for this to work. 
 
 # Dependencies
 * [JNSQ](https://github.com/Galileo88/JNSQ) and all its dependencies
