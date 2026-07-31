@@ -1,0 +1,1 @@
+it has been integrated into the mod, you can choose your desired scale in JNSQReborn-Configuration.cfg
